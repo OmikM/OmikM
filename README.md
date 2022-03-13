@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @OmikM polish teenager 
-- I'm learning: python, web dev, game dev with unity
+ - learning: python, web dev(html,css,js,sql,django), game dev(c#, Unity)
+ - interest in cryptography, math, CTF(capture the flag)
 
 <!---
 OmikM/OmikM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
