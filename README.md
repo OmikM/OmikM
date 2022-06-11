@@ -1,18 +1,20 @@
- Hello I'm Oskar.I'm 14y.o.
- 
- I'm currently learning:
- - data sciens python and SQL 
- - full-stack web dev html,css,js,sql and django
+# Hello I'm Oskar.
+## I'm learning:
+ - data science with python and SQL 
+ - full stack web dev wit html, css, js, sql and django
 
-my goals are to:
-- get the IBM data science professional certificate by August 31
-- create my personal website by August 31
+## my goals are to:
+- [ ] get the IBM data science professional certificate by August 31st
+- [ ] create my personal website by August 31st
 
-languages:
-Germany - A2
-English - b1+
-Polish - native
+## languages:
+- Polish - native
+- English - b1+
+- Germany - A2+
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmikM)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 OmikM/OmikM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
